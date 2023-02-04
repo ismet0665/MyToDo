@@ -1,1 +1,1 @@
-https://ismet0665.github.io/JavaScript-Projeler/MyToDo/
+https://ismet0665.github.io/MyToDo/
